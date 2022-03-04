@@ -9,6 +9,7 @@ a{
 html, body{
     color: #333;
     /* font-family */
+    min-width: 1280px;
 }
 
 /* header */
